@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeWithRitik01/reactTooltip.git/static/css/main.5af8039c.css",
+    "main.js": "/CodeWithRitik01/reactTooltip.git/static/js/main.804841a1.js",
+    "index.html": "/CodeWithRitik01/reactTooltip.git/index.html",
+    "main.5af8039c.css.map": "/CodeWithRitik01/reactTooltip.git/static/css/main.5af8039c.css.map",
+    "main.804841a1.js.map": "/CodeWithRitik01/reactTooltip.git/static/js/main.804841a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af8039c.css",
+    "static/js/main.804841a1.js"
+  ]
+}
